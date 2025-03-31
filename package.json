@@ -1,0 +1,12 @@
+{
+  "name": "code-quest",
+  "version": "1.0.0",
+  "description": "A web-based debugging challenge platform",
+  "scripts": {
+    "start": "concurrently \"cd backend && npm start\" \"cd frontend && npm start\"",
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
