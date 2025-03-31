@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Code Quest - Debugging Challenge Platform
 
 A web-based platform for hosting debugging challenges across multiple programming languages.
@@ -36,3 +37,7 @@ The frontend will run on http://localhost:3000 and the backend on http://localho
 - Backend: Node.js + Express.js
 - Database: MongoDB
 - Code Execution: Judge0 API
+=======
+# Project_Quiz_2.0
+here it is
+>>>>>>> 82fd78e994c5003df1de80162481326f6d68f6e7
